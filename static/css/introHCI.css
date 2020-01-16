@@ -16,6 +16,30 @@ body {
      padding: 20px;
 }
 
+
+p {
+     font-variant: small-caps;
+}
+
+ .project p {
+     font-variant: small-caps;
+}
+
+/**
+#project1 {
+     font-variant: small-caps;
+}
+**/
+
+/**
+.project {
+margin-left: 20px;
+background-color: #DEE5FF;
+padding: 20px;
+width: 560px;
+}
+*/
+
 .jumbotron {
 	position: relative;
 	background: none;
